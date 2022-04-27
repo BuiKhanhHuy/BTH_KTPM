@@ -1,0 +1,10 @@
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\KIEM_THU\BaiThucHanh\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache

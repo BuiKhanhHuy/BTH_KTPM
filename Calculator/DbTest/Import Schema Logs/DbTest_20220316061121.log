@@ -1,0 +1,71 @@
+3/16/2022 1:11:21 PM	This log contains information about the import schema operation into project 'DbTest' on computer 'KHANHHUY' by user 'bkhuy'.
+3/16/2022 1:11:21 PM	Import of database schema has started.
+3/16/2022 1:11:24 PM	Gathering database options
+3/16/2022 1:11:24 PM	Gathering users
+3/16/2022 1:11:24 PM	Gathering roles
+3/16/2022 1:11:25 PM	Gathering application roles
+3/16/2022 1:11:25 PM	Gathering role memberships
+3/16/2022 1:11:25 PM	Gathering filegroups
+3/16/2022 1:11:25 PM	Gathering full-text catalogs
+3/16/2022 1:11:25 PM	Gathering assemblies
+3/16/2022 1:11:25 PM	Gathering certificates
+3/16/2022 1:11:25 PM	Gathering asymmetric keys
+3/16/2022 1:11:25 PM	Gathering symmetric keys
+3/16/2022 1:11:25 PM	Gathering encrypted symmetric keys
+3/16/2022 1:11:25 PM	Gathering schemas
+3/16/2022 1:11:25 PM	Gathering XML schema collections
+3/16/2022 1:11:25 PM	Gathering user-defined data types
+3/16/2022 1:11:25 PM	Gathering user-defined types
+3/16/2022 1:11:25 PM	Gathering table types
+3/16/2022 1:11:25 PM	Gathering unique keys for table types
+3/16/2022 1:11:25 PM	Gathering primary keys for table types
+3/16/2022 1:11:25 PM	Gathering check constraints for table types
+3/16/2022 1:11:25 PM	Gathering default constraints for table types
+3/16/2022 1:11:25 PM	Gathering partition functions
+3/16/2022 1:11:25 PM	Gathering partition schemes
+3/16/2022 1:11:25 PM	Gathering functions
+3/16/2022 1:11:25 PM	Gathering encrypted functions
+3/16/2022 1:11:25 PM	Gathering aggregates
+3/16/2022 1:11:25 PM	Gathering procedures
+3/16/2022 1:11:25 PM	Gathering encrypted procedures
+3/16/2022 1:11:25 PM	Gathering tables
+3/16/2022 1:11:25 PM	Gathering primary keys
+3/16/2022 1:11:25 PM	Gathering unique constraints
+3/16/2022 1:11:25 PM	Gathering foreign keys
+3/16/2022 1:11:25 PM	Gathering default constraints
+3/16/2022 1:11:25 PM	Gathering check constraints
+3/16/2022 1:11:25 PM	Gathering views
+3/16/2022 1:11:25 PM	Gathering encrypted views
+3/16/2022 1:11:25 PM	Gathering indexes
+3/16/2022 1:11:25 PM	Gathering statistics
+3/16/2022 1:11:25 PM	Gathering full-text index stoplists
+3/16/2022 1:11:25 PM	Gathering full-text indexes
+3/16/2022 1:11:25 PM	Gathering spatial indexes
+3/16/2022 1:11:26 PM	Gathering XML indexes
+3/16/2022 1:11:26 PM	Gathering encrypted triggers
+3/16/2022 1:11:26 PM	Gathering triggers
+3/16/2022 1:11:26 PM	Gathering encrypted and clr ddl triggers
+3/16/2022 1:11:26 PM	Gathering ddl triggers
+3/16/2022 1:11:26 PM	Gathering synonyms
+3/16/2022 1:11:26 PM	Gathering defaults
+3/16/2022 1:11:26 PM	Gathering data constraint uddt bindings
+3/16/2022 1:11:26 PM	Gathering rules
+3/16/2022 1:11:26 PM	Gathering data constraint uddt bindings
+3/16/2022 1:11:26 PM	Gathering message types
+3/16/2022 1:11:26 PM	Gathering queues
+3/16/2022 1:11:26 PM	Gathering contracts
+3/16/2022 1:11:26 PM	Gathering services
+3/16/2022 1:11:26 PM	Gathering event notifications
+3/16/2022 1:11:26 PM	Gathering remote service bindings
+3/16/2022 1:11:26 PM	Gathering broker priorities
+3/16/2022 1:11:26 PM	Gathering signatures
+3/16/2022 1:11:26 PM	Gathering data compression options
+3/16/2022 1:11:26 PM	Gathering extended properties
+3/16/2022 1:11:28 PM	Gathering credentials
+3/16/2022 1:11:28 PM	Gathering logins
+3/16/2022 1:11:28 PM	Gathering server audits
+3/16/2022 1:11:29 PM	Scanning project for duplicate elements
+3/16/2022 1:11:29 PM	Finished duplicate element processing
+3/16/2022 1:11:29 PM	Finished importing database.
+3/16/2022 1:11:29 PM	A summary of the import was saved to the following location: E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\Import Schema Logs\DbTest_20220316061121.log
+3/16/2022 1:11:29 PM	Click Finish to continue...

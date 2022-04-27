@@ -1,0 +1,10 @@
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\bin\Debug\DbTest.dacpac
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\bin\Debug\DbTest.dll
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\bin\Debug\DbTest.pdb
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\DbTest.dll
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\DbTest.pdb
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\DbTest.sqlproj.AssemblyReference.cache
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\Model.xml
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\refactor.xml
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\postdeploy.sql
+E:\KIEM_THU\BaiThucHanh\Calculator\DbTest\obj\Debug\predeploy.sql
